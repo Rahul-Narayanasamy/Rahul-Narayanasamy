@@ -10,14 +10,14 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%92%A1;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%92%A1;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🔹 **Software Engineer @ EPAM Systems** specializing in Full-Stack Development  
+🔹 **Software Engineer @ EPAM Systems** specializing in Frontend Development  
 🔹 Passionate about **AI Agents**, **System Design**, and **Web Automation**  
 🔹 Based in **Bengaluru, India** 🇮🇳  
 🔹 Love exploring new technologies and building innovative solutions  
